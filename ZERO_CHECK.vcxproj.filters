@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Azim\Documents\CRYENGINE Projects\The Third Law\Solutions\FirstPersonShooterTemplate.win_x64\CMakeFiles\1432370ed97cd74b037211f2cc1011a8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{511B750C-3E6E-30C6-AC63-676B430FB98D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
